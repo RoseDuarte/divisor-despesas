@@ -16,11 +16,7 @@ Além de mostrar o valor individual, o app também exibe um **feedback divertido
 
 ---
 
-## 🎯 Demonstração
-
----
-
-## 🎯 Demonstração
+## 📷 Captura de tela
 
 ![Preview do projeto](./assets/print-project.png)
 
