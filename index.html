@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="./style.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+    <title>Divisor de Despesas</title>
+</head>
+<body>
+    <main class="container">
+        <h1>💰 Divisor de Despesas</h1>
+
+        <form id="expense-form">
+            <label for="total">Valor total da despesa (R$):</label>
+            <div class="inputs-form">
+                <input type="number" id="total" placeholder="Ex: 180,00"/>
+                <span class="error" id="total-erro"></span>
+            </div>
+
+            <label for="people">Número de pessoas:</label>
+            <div class="inputs-form">
+                <input type="number" id="people" placeholder="Ex: 4"/>
+                <span class="error" id="people-erro"></span>
+            </div>
+
+            <button class="btn-calc" type="submit">Calcular</button>
+            <button type="reset" id="reset-btn">Resetar</button>
+        </form>
+
+        <div id="result" class="hidden">
+            <p id="per-person"></p>
+            <p id="feedback"></p>
+        </div>
+    </main>
+
+    <script src="./script.js"></script>
+</body>
+</html>
