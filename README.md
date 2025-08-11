@@ -1,7 +1,6 @@
 # 💸 Divisor de Despesas
 
-Um projeto simples e divertido feito com **HTML, CSS e JavaScript puro** para calcular quanto cada pessoa deve pagar ao dividir uma conta.  
-Além de mostrar o valor individual, o app também exibe um **feedback divertido** com base no valor por pessoa.
+Um projeto simples e divertido feito com **HTML, CSS e JavaScript** para calcular quanto cada pessoa deve pagar ao dividir uma conta.  Além de mostrar o valor individual, o app também exibe um **feedback divertido** com base no valor por pessoa.
 
 ---
 
@@ -24,9 +23,9 @@ Além de mostrar o valor individual, o app também exibe um **feedback divertido
 
 ## 🛠️ Tecnologias Utilizadas
 
-- **HTML5** → estrutura do projeto
-- **CSS3** → estilização e responsividade
-- **JavaScript (Vanilla)** → lógica de cálculo e interatividade
+- **HTML** → estrutura do projeto
+- **CSS** → estilização e responsividade
+- **JavaScript** → lógica de cálculo e interatividade
 
 ---
 
