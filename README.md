@@ -32,4 +32,4 @@ Além de mostrar o valor individual, o app também exibe um **feedback divertido
 
 ## 📄 Licença
 
-Este projeto está licenciado sob os termos da [Licença MIT](https://www.notion.so/LICENSE).
+Este projeto está sob a licença MIT.
