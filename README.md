@@ -27,3 +27,9 @@ Além de mostrar o valor individual, o app também exibe um **feedback divertido
 - **HTML5** → estrutura do projeto
 - **CSS3** → estilização e responsividade
 - **JavaScript (Vanilla)** → lógica de cálculo e interatividade
+
+---
+
+## 📄 Licença
+
+Este projeto está licenciado sob os termos da [Licença MIT](https://www.notion.so/LICENSE).
